@@ -1,6 +1,6 @@
 # Landing page
 
-This is a site for "Bang & Olufsen", who delivers bespoke audio solutions suited to all occasions and needs. Now it`s just a landing page, but it can bacame a multi-page site if we need it.
+This is a site for "Bang & Olufsen", who delivers bespoke audio solutions suited to all occasions and needs. Now it`s just a landing page, but it can became a multi-page site if we need it.
 
 This page was created using HTML5 + CSS3 and SASS preprocessor technologies. Also BEM methodology was used during creation this project.
 
